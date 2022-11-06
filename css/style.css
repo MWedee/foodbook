@@ -4,10 +4,10 @@
 }
 h1{
     font-size: larger;
-    color:#CCFFCC ;
+    color:black ;
 }
 .sub{
-    color: black;
+    color:white;
 }
 .dish{
     font-size: 50px;
@@ -21,7 +21,7 @@ nav{
     left: 0;
     position: absolute;
     width: 100%;
-    background-color: aqua;
+    background-color: white;
 }
 #searchByMap{
     text-align: center;
